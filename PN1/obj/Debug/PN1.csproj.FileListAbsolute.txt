@@ -1,0 +1,11 @@
+C:\PN\PN\PN1\PN1\bin\Debug\PN1.exe.config
+C:\PN\PN\PN1\PN1\bin\Debug\PN1.exe
+C:\PN\PN\PN1\PN1\bin\Debug\PN1.pdb
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.csproj.AssemblyReference.cache
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.csproj.SuggestedBindingRedirects.cache
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.Form1.resources
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.Properties.Resources.resources
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.csproj.GenerateResource.cache
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.csproj.CoreCompileInputs.cache
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.exe
+C:\PN\PN\PN1\PN1\obj\Debug\PN1.pdb
