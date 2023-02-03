@@ -1,0 +1,11 @@
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\bin\Debug\MathQuizDiana21.exe.config
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\bin\Debug\MathQuizDiana21.exe
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\bin\Debug\MathQuizDiana21.pdb
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.csproj.AssemblyReference.cache
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.csproj.SuggestedBindingRedirects.cache
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.Form1.resources
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.Properties.Resources.resources
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.csproj.GenerateResource.cache
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.csproj.CoreCompileInputs.cache
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.exe
+C:\PN\PN\PN1\MathQuizDiana21\MathQuizDiana21\obj\Debug\MathQuizDiana21.pdb
