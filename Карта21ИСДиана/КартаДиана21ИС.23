@@ -1,0 +1,174 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Xml.Linq;
+
+namespace Bektenova26._01
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Name.Text = "МЦК Лужники";
+            tualet.Visible = false; tualett.Visible = false;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void карта_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Новодевичей монастырь";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = true; medd.Visible = true;
+            info.Visible = true; infoo.Visible = true;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Метро Киевская";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Name.Text = "МИД";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = true; medd.Visible = true;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+            info.Location = new Point(681, 305);
+            infoo.Location = new Point(801, 338);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Парк Горького";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = true; infoo.Visible = true;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Здания РАН";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Метро Воробевы горы";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = true; medd.Visible = true;
+            info.Visible = true; infoo.Visible = true;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Метро Воробевы горы";
+            tualet.Visible = true; tualett.Visible = true;
+            med.Visible = true; medd.Visible = true;
+            info.Visible = true; infoo.Visible = true;
+            energy.Visible = true; energyy.Visible = true;
+            drinks.Visible = true; drinkss.Visible = true;
+        }
+        private void старт1_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Полный марафон самбы";
+            tualet.Visible = false; tualett.Visible = false;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = false; energyy.Visible = false;
+            drinks.Visible = false; drinkss.Visible = false;
+        }
+
+
+        private void старт2_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Джонго Полумарафон";
+            tualet.Visible = false; tualett.Visible = false;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = false; energyy.Visible = false;
+            drinks.Visible = false; drinkss.Visible = false;
+        }
+
+
+        private void стартт3_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Капоэйра Skm Веселый бег";
+            tualet.Visible = false; tualett.Visible = false;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = false; energyy.Visible = false;
+            drinks.Visible = false; drinkss.Visible = false;
+        }
+
+        private void финиш_Click(object sender, EventArgs e)
+        {
+            Name.Text = "Финиш";
+            tualet.Visible = false; tualett.Visible = false;
+            med.Visible = false; medd.Visible = false;
+            info.Visible = false; infoo.Visible = false;
+            energy.Visible = false; energyy.Visible = false;
+            drinks.Visible = false; drinkss.Visible = false;
+        }
+    }
+}
